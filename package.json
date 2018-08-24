@@ -58,7 +58,7 @@
   },
   "optionalDependencies": {
     "canvas": "1.6.x",
-    "jsdom": "9.x.x",
+    "jsdom": "git+https://github.com/b-amaral/jsdom.git",
     "xmldom": "0.1.x"
   },
   "devDependencies": {
